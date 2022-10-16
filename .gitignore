@@ -1,0 +1,8 @@
+# input and output files
+*.ism
+*.isma
+*.ismv
+*.mp4
+
+# temp files
+/temp
