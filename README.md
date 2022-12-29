@@ -12,7 +12,11 @@ I made this because the XBOX Store uses this format.
 ### Usage
 
 `node index.js <ismUrlOrFile>`
-e.g. `node index.js https://host.com/path/to/ism`
+
+> Examples <br/>
+>
+> - `node index.js https://host.com/path/to/ism`
+> - `node index.js https://universalstore.streaming.mediaservices.windows.net/34c1dcca-3e36-4f7d-b275-8a90a42c7283/c9f3e6f6-eba8-4aba-8af0-acc79b58.ism/manifest` (Fortnite Ch4 BP Trailer)
 
 ### Authors
 
